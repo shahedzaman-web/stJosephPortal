@@ -9,8 +9,8 @@ Overview
 2. Teacher and student Information
 
 3. Attendance Report
-4. 
-5. Exam Report , Schedule, Mark Distribution
+
+4. Exam Report , Schedule, Mark Distribution
 
 5. Classs Schedule
 
